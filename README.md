@@ -1,15 +1,19 @@
 # Desafio: Desenvolvimento de App Android - Rick and Morty
 
 ## Descrição do Desafio
-O objetivo deste desafio é desenvolver um aplicativo Android nativo utilizando a linguagem de programação Kotlin, inspirado no popular desenho animado "Rick and Morty". O aplicativo deve proporcionar uma experiência envolvente e interativa aos usuários, apresentando informações sobre os personagens, episódios e mundos do desenho.
+O objetivo deste desafio é desenvolver um aplicativo Android nativo, inspirado no popular desenho animado "Rick and Morty". O aplicativo deve proporcionar uma experiência envolvente e interativa aos usuários, apresentando informações sobre os personagens, episódios e mundos do desenho assim como uma tela de configurações.
+
+## API
+-- https://rickandmortyapi.com/
 
 ## Requisitos do Projeto
 O aplicativo deve seguir a arquitetura MVVM (Model-View-ViewModel) e utilizar os seguintes componentes e bibliotecas:
-- Kotlin: Linguagem de programação principal para o desenvolvimento do aplicativo.
+- Kotlin/Java: Linguagem de programação principal para o desenvolvimento do aplicativo.
 - MVVM: Implementar a arquitetura MVVM para manter uma separação clara entre a lógica de negócios e a interface do usuário.
 - Koin/Hilt: Utilizar injeção de dependência com Koin ou Hilt para gerenciar as instâncias de classes e facilitar testes unitários.
 - Retrofit: Implementar a comunicação com APIs utilizando Retrofit para obter dados relacionados ao desenho "Rick and Morty".
 - Diferencial: Testes unitários e instrumentados: Atingir o coverage de 100% do projeto.
+- Diferencial: Utilizar Jetpack Compose
 
 ## Funcionalidades Esperadas
 - Tela de splash.
