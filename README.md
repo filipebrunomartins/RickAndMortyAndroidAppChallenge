@@ -12,6 +12,7 @@ O aplicativo deve seguir a arquitetura MVVM (Model-View-ViewModel) e utilizar os
 - MVVM: Implementar a arquitetura MVVM para manter uma separação clara entre a lógica de negócios e a interface do usuário.
 - Koin/Hilt: Utilizar injeção de dependência com Koin ou Hilt para gerenciar as instâncias de classes e facilitar testes unitários.
 - Retrofit: Implementar a comunicação com APIs utilizando Retrofit para obter dados relacionados ao desenho "Rick and Morty".
+- Coroutines and Kotlin Flow: Utilize para gerenciar operações assíncronas.
 - Diferencial: Testes unitários e instrumentados: Atingir o coverage de 100% do projeto.
 - Diferencial: Utilizar Jetpack Compose
 
