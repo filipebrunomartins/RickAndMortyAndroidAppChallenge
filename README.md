@@ -9,7 +9,7 @@ O aplicativo deve seguir a arquitetura MVVM (Model-View-ViewModel) e utilizar os
 - MVVM: Implementar a arquitetura MVVM para manter uma separação clara entre a lógica de negócios e a interface do usuário.
 - Koin/Hilt: Utilizar injeção de dependência com Koin ou Hilt para gerenciar as instâncias de classes e facilitar testes unitários.
 - Retrofit: Implementar a comunicação com APIs utilizando Retrofit para obter dados relacionados ao desenho "Rick and Morty".
-- Testes unitários e instrumentados: Atingir o coverage de 100% do projeto.
+- Diferencial: Testes unitários e instrumentados: Atingir o coverage de 100% do projeto.
 
 ## Funcionalidades Esperadas
 - Tela de splash.
@@ -17,7 +17,7 @@ O aplicativo deve seguir a arquitetura MVVM (Model-View-ViewModel) e utilizar os
 - Tela de detalhe para exibição de informações dos episódios, mundos, personagens (use a criatividade).
 - Integração com uma API para fornecer dados atualizados
 - Interface de usuário responsiva e intuitiva.
-- Diferencial: conseguir salvar lista local de mundos, episodios e personagens(sqlite)
+- Diferencial: conseguir salvar lista local de mundos, episodios e personagens(Room)
 - Diferencial: tela de configurações possivel editar infomações como nome e favoritos
 
 Agradecemos seu interesse em participar deste desafio. Estamos ansiosos para ver suas ideias e soluções criativas para o aplicativo "Rick and Morty". Boa sorte!
