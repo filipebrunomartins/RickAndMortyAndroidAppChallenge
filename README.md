@@ -4,7 +4,7 @@
 O objetivo deste desafio é desenvolver um aplicativo Android nativo, inspirado no popular desenho animado "Rick and Morty". O aplicativo deve proporcionar uma experiência envolvente e interativa aos usuários, apresentando informações sobre os personagens, episódios e mundos do desenho assim como uma tela de configurações.
 
 ## API
--- https://rickandmortyapi.com/
+https://rickandmortyapi.com/
 
 ## Requisitos do Projeto
 O aplicativo deve seguir a arquitetura MVVM (Model-View-ViewModel) e utilizar os seguintes componentes e bibliotecas:
